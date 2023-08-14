@@ -1,0 +1,14 @@
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio13\Ejercicio13\bin\Debug\net7.0\Ejercicio13.exe
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio13\Ejercicio13\bin\Debug\net7.0\Ejercicio13.deps.json
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio13\Ejercicio13\bin\Debug\net7.0\Ejercicio13.runtimeconfig.json
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio13\Ejercicio13\bin\Debug\net7.0\Ejercicio13.dll
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio13\Ejercicio13\bin\Debug\net7.0\Ejercicio13.pdb
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio13\Ejercicio13\obj\Debug\net7.0\Ejercicio13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio13\Ejercicio13\obj\Debug\net7.0\Ejercicio13.AssemblyInfoInputs.cache
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio13\Ejercicio13\obj\Debug\net7.0\Ejercicio13.AssemblyInfo.cs
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio13\Ejercicio13\obj\Debug\net7.0\Ejercicio13.csproj.CoreCompileInputs.cache
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio13\Ejercicio13\obj\Debug\net7.0\Ejercicio13.dll
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio13\Ejercicio13\obj\Debug\net7.0\refint\Ejercicio13.dll
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio13\Ejercicio13\obj\Debug\net7.0\Ejercicio13.pdb
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio13\Ejercicio13\obj\Debug\net7.0\Ejercicio13.genruntimeconfig.cache
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio13\Ejercicio13\obj\Debug\net7.0\ref\Ejercicio13.dll

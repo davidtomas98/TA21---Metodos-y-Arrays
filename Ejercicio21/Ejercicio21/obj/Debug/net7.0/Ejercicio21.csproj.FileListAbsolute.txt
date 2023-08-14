@@ -1,0 +1,14 @@
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio21\Ejercicio21\bin\Debug\net7.0\Ejercicio21.exe
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio21\Ejercicio21\bin\Debug\net7.0\Ejercicio21.deps.json
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio21\Ejercicio21\bin\Debug\net7.0\Ejercicio21.runtimeconfig.json
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio21\Ejercicio21\bin\Debug\net7.0\Ejercicio21.dll
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio21\Ejercicio21\bin\Debug\net7.0\Ejercicio21.pdb
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio21\Ejercicio21\obj\Debug\net7.0\Ejercicio21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio21\Ejercicio21\obj\Debug\net7.0\Ejercicio21.AssemblyInfoInputs.cache
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio21\Ejercicio21\obj\Debug\net7.0\Ejercicio21.AssemblyInfo.cs
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio21\Ejercicio21\obj\Debug\net7.0\Ejercicio21.csproj.CoreCompileInputs.cache
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio21\Ejercicio21\obj\Debug\net7.0\Ejercicio21.dll
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio21\Ejercicio21\obj\Debug\net7.0\refint\Ejercicio21.dll
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio21\Ejercicio21\obj\Debug\net7.0\Ejercicio21.pdb
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio21\Ejercicio21\obj\Debug\net7.0\Ejercicio21.genruntimeconfig.cache
+C:\Users\david.tomas\C4\TA21\TA21---Metodos-y-Arrays\Ejercicio21\Ejercicio21\obj\Debug\net7.0\ref\Ejercicio21.dll
